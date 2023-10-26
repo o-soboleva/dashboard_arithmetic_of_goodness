@@ -44,6 +44,8 @@
 ## Инструменты
 *DataLens*
 
+## Ссылка на дашборд
 
+https://datalens.yandex/bkdsbni9q6no0 
 
 
